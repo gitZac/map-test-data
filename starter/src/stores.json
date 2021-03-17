@@ -1,227 +1,365 @@
 {
     "type": "FeatureCollection",
-    "features": [{
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-0.1428115,
-                    51.5125168
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "patisserie",
-                "hours": "10am - 6pm",
-                "description": "Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Mayfair",
-                "phone": "+44 20 1234 5678",
-                "storeid": "01"
-            }
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.8884126,
+            35.7375687,
+            0
+          ]
         },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-2.579623,
-                    51.452251
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "patisserie",
-                "hours": "10am - 6pm",
-                "description": "Come and try our award-winning cakes and pastries. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Bristol",
-                "phone": "+44 117 121 2121",
-                "storeid": "02"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.273459,
-                    52.638072
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "patisserie",
-                "hours": "10am - 6pm",
-                "description": "Whatever the occasion, whether it's a birthday or a wedding, Josie's Patisserie has the perfect treat for you. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Norwich",
-                "phone": "+44 1603 123456",
-                "storeid": "03"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-1.9912838,
-                    50.8000418
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "patisserie",
-                "hours": "10am - 6pm",
-                "description": "A gourmet patisserie that will delight your senses. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Wimborne",
-                "phone": "+44 1202 343434",
-                "storeid": "04"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-2.985933,
-                    53.408899
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "patisserie",
-                "hours": "10am - 6pm",
-                "description": "Spoil yourself or someone special with our classic pastries. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Liverpool",
-                "phone": "+44 151 444 4444",
-                "storeid": "05"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-1.689423,
-                    52.632469
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "patisserie",
-                "hours": "10am - 6pm",
-                "description": "Come and feast your eyes and tastebuds on our delicious pastries and cakes. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Tamworth",
-                "phone": "+44 5555 55555",
-                "storeid": "06"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-3.155305,
-                    51.479756
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "patisserie",
-                "hours": "10am - 6pm",
-                "description": "Josie's Patisserie is family-owned, and our delectable pastries, cakes, and great coffee are renowed. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Cardiff",
-                "phone": "+44 29 6666 6666",
-                "storeid": "07"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-0.725019,
-                    52.668891
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "8am - 9:30pm",
-                "description": "Oakham's favorite spot for fresh coffee and delicious cakes. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Cafe Oakham",
-                "phone": "+44 7777 777777",
-                "storeid": "08"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-2.477653,
-                    53.735405
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "8am - 9:30pm",
-                "description": "Enjoy freshly brewed coffe, and home baked cakes in our homely cafe. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Cafe Blackburn",
-                "phone": "+44 8888 88888",
-                "storeid": "09"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-0.211363,
-                    51.108966
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "8am - 9:30pm",
-                "description": "A delicious array of pastries with many flavours, and fresh coffee in an snug cafe. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Cafe Crawley",
-                "phone": "+44 1010 101010",
-                "storeid": "10"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-0.123559,
-                    50.832679
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "8am - 9:30pm",
-                "description": "Grab a freshly brewed coffee, a decadent cake and relax in our idyllic cafe. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Cafe Brighton",
-                "phone": "+44 1313 131313",
-                "storeid": "11"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-3.319575,
-                    52.517827
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "8am - 9:30pm",
-                "description": "Come in and unwind at this idyllic cafe with fresh coffee and home made cakes. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Cafe Newtown",
-                "phone": "+44 1414 141414",
-                "storeid": "12"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.158167,
-                    52.071634
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "cafe",
-                "hours": "8am - 9:30pm",
-                "description": "Fresh coffee and delicious cakes in an snug cafe. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Cafe Ipswich",
-                "phone": "+44 1717 17171",
-                "storeid": "13"
-            }
+        "properties": {
+          "name": "APEX",
+          "address": "1460 Chapel Ridge Road, Ste. 150 Apex, NC 27502",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "919.363.3640",
+          "clinicpage": "https://breakthrough-pt.com/location/apex/"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.0378245,
+            35.25592009999998,
+            0
+          ]
+        },
+        "properties": {
+          "name": "CAMERON",
+          "address": "1562 Hwy. 24/87 Cameron, NC 28326",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "910.436.4545",
+          "clinicpage": "https://breakthrough-pt.com/location/cameron/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.8291126,
+            35.7872735,
+            0
+          ]
+        },
+        "properties": {
+          "name": "CARY-PRESTON CORNERS",
+          "address": "981 High House Rd. Cary, NC 27513",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "919.388.0111",
+          "clinicpage": "https://breakthrough-pt.com/location/cary-preston-corners/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.9089587,
+            35.8305744,
+            0
+          ]
+        },
+        "properties": {
+          "name": "CARY - AMBERLY",
+          "address": "730 Slash Pine Dr. Cary, NC 27519",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "919.460.4399",
+          "clinicpage": "https://breakthrough-pt.com/location/cary-slash-pine-drive/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.95960330000001,
+            35.95973530000001,
+            0
+          ]
+        },
+        "properties": {
+          "name": "DURHAM",
+          "address": "1821 Martin Luther King Jr. Pkwy. Durham, NC 27707",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "919.748.4980",
+          "clinicpage": "https://breakthrough-pt.com/location/durham/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.9336276,
+            35.0296803,
+            0
+          ]
+        },
+        "properties": {
+          "name": "FAYETTEVILLE VILLAGE DR.",
+          "address": "3401 Village Dr., Ste. 101 Fayetteville, NC 28304",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "910.483.9300",
+          "clinicpage": "https://breakthrough-pt.com/location/fayetteville-village-drive/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.87949200000001,
+            35.11672199999998,
+            0
+          ]
+        },
+        "properties": {
+          "name": "FAYETTEVILLE RAMSEY ST.",
+          "address": "4140 Ramsey St., Ste. 110 Fayetteville, NC 28311",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "910.920.4903",
+          "clinicpage": "https://breakthrough-pt.com/location/fayetteville-ramsey-street/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.8280644,
+            36.11630229999999,
+            0
+          ]
+        },
+        "properties": {
+          "name": "GREENSBORO BRAXTON LN.",
+          "address": "2105 Braxton Ln., Ste. 101 Greensboro, NC 27408",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "336.458.3694",
+          "clinicpage": "https://breakthrough-pt.com/location/greensboro-braxton-lane/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.78015049999999,
+            36.0959625,
+            0
+          ]
+        },
+        "properties": {
+          "name": "GREENSBORO YANCEYVILLE ST.",
+          "address": "1591 Yanceyville St., Ste. 400 Greensboro, NC 27405",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "336.274.7480",
+          "clinicpage": "https://breakthrough-pt.com/location/greensboro-yanceyville-street/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.9566518,
+            36.04619339999999,
+            0
+          ]
+        },
+        "properties": {
+          "name": "HIGH POINT",
+          "address": "4144 Mendenhall Oaks Pkwy., Ste. 101 High Point, NC 27265",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "336.804.3004",
+          "clinicpage": "https://breakthrough-pt.com/location/high-point/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.0915754,
+            36.11160019999998,
+            0
+          ]
+        },
+        "properties": {
+          "name": "KERNERSVILLE",
+          "address": "853 Old Winston Rd., Ste. 115 Kernersville, NC 27284",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "336.310.0750",
+          "clinicpage": "https://breakthrough-pt.com/location/kernersville/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.7541445,
+            34.72898930000001,
+            0
+          ]
+        },
+        "properties": {
+          "name": "MOREHEAD CITY",
+          "address": "303 North 35th St. Morehead City, NC 28557",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "252.247.2738",
+          "clinicpage": "https://breakthrough-pt.com/location/morehead-city/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.5884985,
+            36.3112711,
+            0
+          ]
+        },
+        "properties": {
+          "name": "OXFORD",
+          "address": "110 Main St. Oxford, NC 27565",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "919.853.7183",
+          "clinicpage": "https://breakthrough-pt.com/location/oxford/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.41662779999999,
+            35.16074060000001,
+            0
+          ]
+        },
+        "properties": {
+          "name": "SOUTHERN PINES",
+          "address": "275 Pinehurst Ave. Southern Pines, NC 28387",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "910.603.2788",
+          "clinicpage": "https://breakthrough-pt.com/location/southern-pines/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.52024580000001,
+            35.9498055,
+            0
+          ]
+        },
+        "properties": {
+          "name": "WAKE FOREST",
+          "address": "3150 Rogers Road., Ste. 216 Wake Forest, NC 27587",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "919.229.8363",
+          "clinicpage": "https://breakthrough-pt.com/location/wake-forest/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.3147386,
+            36.07027240000001,
+            0
+          ]
+        },
+        "properties": {
+          "name": "WINSTON-SALEM",
+          "address": "1541 Westbrook Plaza Dr. Winston-Salem, NC 27103",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "336.765.4703",
+          "clinicpage": "https://breakthrough-pt.com/location/winston-salem/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.8990175,
+            34.69613889999999,
+            0
+          ]
+        },
+        "properties": {
+          "name": "FORT LAWN, SC",
+          "address": "5554 Main St. Fort Lawn, SC 29714",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "803.548.5662",
+          "clinicpage": "https://breakthrough-pt.com/location/fort-lawn-sc/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.8557642,
+            34.97924299999998,
+            0
+          ]
+        },
+        "properties": {
+          "name": "INDIAN LAND, SC",
+          "address": "7580 Charlotte Hwy., Ste. 1100 Indian Land, SC 29707",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "803.548.5662",
+          "clinicpage": "https://breakthrough-pt.com/location/indian-land-sc/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.7555206,
+            34.95770060000001,
+            0
+          ]
+        },
+        "properties": {
+          "name": "WAXHAW",
+          "address": "2514 Cuthbertson Rd., Ste. D Waxhaw, NC 28173",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "704.810.4302",
+          "clinicpage": "https://breakthrough-pt.com/location/waxhaw/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.68086859999998,
+            35.84607289999998,
+            0
+          ]
+        },
+        "properties": {
+          "name": "Raleigh",
+          "address": "4701 Creedmoor Rd., Ste. 107 Raleigh, NC 27612",
+          "schedulepage": "https://breakthrough-pt.com/for-patients/schedule-an-appointment/",
+          "phone": "919.676.2001",
+          "clinicpage": "https://breakthrough-pt.com/location/raleigh/"
+        }
+      }
     ]
-}
+  }
